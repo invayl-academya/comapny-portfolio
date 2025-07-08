@@ -15,7 +15,8 @@ const Footer = () => {
             Invayl TechCorp
           </h2>
           <p className="text-gray-400 text-sm">
-            we deliver high-quality web and apps solutinand startup enterprises
+            we deliver high-quality website and web apps solutions startup
+            enterprises
           </p>
         </div>
 
